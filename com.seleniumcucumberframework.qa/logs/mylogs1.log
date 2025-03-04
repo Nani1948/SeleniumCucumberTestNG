@@ -1,0 +1,1365 @@
+20250204 01:32:45 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:32:45 DEBUG [main] stepdefinition.Hooks Hooks.java165 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:32:46 DEBUG [main] stepdefinition.Hooks Hooks.java200 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:32:46 ERROR [main] stepdefinition.Hooks Hooks.java136 - ExtentReports is not initialized.
+20250204 01:32:46 DEBUG [main] stepdefinition.Hooks Hooks.java140 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:39:53 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:39:53 DEBUG [main] stepdefinition.Hooks Hooks.java166 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:39:56 DEBUG [main] stepdefinition.Hooks Hooks.java201 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:39:56 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:42:26 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:42:26 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:42:28 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:42:28 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:42:28 ERROR [main] pages.BasePage BasePage.java55 - WebDriver is not initialized!
+20250204 01:45:12 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:45:12 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:45:13 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:45:13 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:48:27 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:48:27 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:48:28 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:48:28 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:49:32 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:49:32 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:49:33 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:49:33 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:56:25 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:56:25 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:56:26 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:56:26 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 01:56:26 ERROR [main] pages.LoginPage LoginPage.java61 - WebDriver is not initialized!
+20250204 01:59:07 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 01:59:08 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 01:59:12 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 01:59:12 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 02:04:05 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 02:04:05 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 02:04:08 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 02:04:08 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 02:04:08 ERROR [main] pages.LoginPage LoginPage.java64 - WebDriver is not initialized! Cannot navigate.
+20250204 02:11:07 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 02:11:07 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 02:11:14 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 02:11:14 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 02:13:22 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 02:13:22 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 02:13:23 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 02:13:23 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:04:04 DEBUG [main] stepdefinition.Hooks Hooks.java113 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:04:04 DEBUG [main] stepdefinition.Hooks Hooks.java176 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:04:07 DEBUG [main] stepdefinition.Hooks Hooks.java211 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:04:07 DEBUG [main] stepdefinition.Hooks Hooks.java141 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:06:48 DEBUG [main] runner.TestRunner TestRunner.java37 - DriverManager: setup: configuration started
+20250204 19:06:48 DEBUG [main] runner.TestRunner TestRunner.java43 - ExtentReports initialized successfully.
+20250204 19:06:48 DEBUG [main] runner.TestRunner TestRunner.java48 - DriverManager: setup: configuration complete
+20250204 19:06:49 DEBUG [main] stepdefinition.Hooks Hooks.java91 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:06:49 DEBUG [main] stepdefinition.Hooks Hooks.java154 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:06:51 DEBUG [main] stepdefinition.Hooks Hooks.java189 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:06:51 DEBUG [main] stepdefinition.Hooks Hooks.java119 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:06:53 DEBUG [main] runner.TestRunner TestRunner.java56 - DriverManager: tearDown: completed
+20250204 19:09:59 DEBUG [main] runner.TestRunner TestRunner.java37 - DriverManager: setup: configuration started
+20250204 19:09:59 DEBUG [main] runner.TestRunner TestRunner.java43 - ExtentReports initialized successfully.
+20250204 19:09:59 DEBUG [main] runner.TestRunner TestRunner.java48 - DriverManager: setup: configuration complete
+20250204 19:10:00 DEBUG [main] stepdefinition.Hooks Hooks.java91 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:10:00 DEBUG [main] stepdefinition.Hooks Hooks.java154 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:10:03 DEBUG [main] stepdefinition.Hooks Hooks.java189 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:10:03 DEBUG [main] stepdefinition.Hooks Hooks.java119 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:10:04 DEBUG [main] runner.TestRunner TestRunner.java56 - DriverManager: tearDown: completed
+20250204 19:11:55 DEBUG [main] runner.TestRunner TestRunner.java37 - DriverManager: setup: configuration started
+20250204 19:11:56 DEBUG [main] runner.TestRunner TestRunner.java43 - ExtentReports initialized successfully.
+20250204 19:11:56 DEBUG [main] runner.TestRunner TestRunner.java48 - DriverManager: setup: configuration complete
+20250204 19:11:56 DEBUG [main] stepdefinition.Hooks Hooks.java91 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:11:56 DEBUG [main] stepdefinition.Hooks Hooks.java154 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:11:58 DEBUG [main] stepdefinition.Hooks Hooks.java189 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:11:58 DEBUG [main] stepdefinition.Hooks Hooks.java119 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:11:59 DEBUG [main] runner.TestRunner TestRunner.java56 - DriverManager: tearDown: completed
+20250204 19:15:00 DEBUG [main] runner.TestRunner TestRunner.java37 - DriverManager: setup: configuration started
+20250204 19:15:00 DEBUG [main] runner.TestRunner TestRunner.java43 - ExtentReports initialized successfully.
+20250204 19:15:00 DEBUG [main] runner.TestRunner TestRunner.java48 - DriverManager: setup: configuration complete
+20250204 19:15:01 DEBUG [main] stepdefinition.Hooks Hooks.java91 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:15:01 DEBUG [main] stepdefinition.Hooks Hooks.java154 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:15:02 DEBUG [main] stepdefinition.Hooks Hooks.java189 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:15:02 DEBUG [main] stepdefinition.Hooks Hooks.java119 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:15:03 DEBUG [main] runner.TestRunner TestRunner.java56 - DriverManager: tearDown: completed
+20250204 19:15:48 DEBUG [main] runner.TestRunner TestRunner.java37 - DriverManager: setup: configuration started
+20250204 19:15:48 DEBUG [main] runner.TestRunner TestRunner.java43 - ExtentReports initialized successfully.
+20250204 19:15:48 DEBUG [main] runner.TestRunner TestRunner.java48 - DriverManager: setup: configuration complete
+20250204 19:15:49 DEBUG [main] stepdefinition.Hooks Hooks.java91 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:15:49 DEBUG [main] stepdefinition.Hooks Hooks.java154 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:15:50 DEBUG [main] stepdefinition.Hooks Hooks.java189 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:15:50 DEBUG [main] stepdefinition.Hooks Hooks.java119 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:15:50 DEBUG [main] runner.TestRunner TestRunner.java56 - DriverManager: tearDown: completed
+20250204 19:18:44 DEBUG [main] runner.TestRunner TestRunner.java37 - DriverManager: setup: configuration started
+20250204 19:18:44 DEBUG [main] runner.TestRunner TestRunner.java43 - ExtentReports initialized successfully.
+20250204 19:18:44 DEBUG [main] runner.TestRunner TestRunner.java48 - DriverManager: setup: configuration complete
+20250204 19:18:45 DEBUG [main] stepdefinition.Hooks Hooks.java91 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 19:18:45 DEBUG [main] stepdefinition.Hooks Hooks.java154 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 19:18:47 DEBUG [main] stepdefinition.Hooks Hooks.java189 - DriverManager: initializeDriver: chrome driver configured
+20250204 19:18:47 DEBUG [main] stepdefinition.Hooks Hooks.java119 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 19:18:48 DEBUG [main] runner.TestRunner TestRunner.java56 - DriverManager: tearDown: completed
+20250204 21:30:54 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:30:55 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 21:30:55 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 21:30:55 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 21:30:56 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 21:39:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:39:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 21:39:28 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 21:39:28 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 21:39:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 21:42:34 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:42:34 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 21:42:35 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 21:42:35 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 21:42:35 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 21:50:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:50:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 21:53:32 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:53:33 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 21:58:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:58:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 21:58:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 21:58:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:00:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:00:29 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:03:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:03:17 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:23:50 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:23:51 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:24:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:24:40 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:24:40 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:24:40 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 22:24:40 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:26:12 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:26:13 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:26:13 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:26:13 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 22:26:14 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:31:03 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:31:04 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:31:04 DEBUG [main] stepdefinition.Hooks Hooks.java74 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:31:04 DEBUG [main] stepdefinition.Hooks Hooks.java124 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:31:09 DEBUG [main] stepdefinition.Hooks Hooks.java158 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:31:09 DEBUG [main] stepdefinition.Hooks Hooks.java93 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:31:09 DEBUG [main] stepdefinition.Hooks Hooks.java108 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250204 22:31:09 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:31:09 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 22:31:09 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:31:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:31:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:31:54 DEBUG [main] stepdefinition.Hooks Hooks.java74 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:31:54 DEBUG [main] stepdefinition.Hooks Hooks.java124 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:31:57 DEBUG [main] stepdefinition.Hooks Hooks.java158 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:31:57 DEBUG [main] stepdefinition.Hooks Hooks.java93 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:31:57 DEBUG [main] stepdefinition.Hooks Hooks.java108 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250204 22:31:57 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:31:57 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 22:31:58 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:39:42 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:39:42 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:39:42 DEBUG [main] stepdefinition.Hooks Hooks.java75 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:39:42 DEBUG [main] stepdefinition.Hooks Hooks.java125 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:39:44 DEBUG [main] stepdefinition.Hooks Hooks.java160 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:39:44 DEBUG [main] stepdefinition.Hooks Hooks.java94 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:39:45 DEBUG [main] stepdefinition.Hooks Hooks.java109 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250204 22:39:45 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:39:45 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:39:45 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:40:23 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:40:23 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:40:24 DEBUG [main] stepdefinition.Hooks Hooks.java75 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:40:24 DEBUG [main] stepdefinition.Hooks Hooks.java125 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:40:26 DEBUG [main] stepdefinition.Hooks Hooks.java160 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:40:26 DEBUG [main] stepdefinition.Hooks Hooks.java94 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:40:27 DEBUG [main] stepdefinition.Hooks Hooks.java109 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250204 22:40:27 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:40:27 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:40:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:41:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:41:54 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:41:54 DEBUG [main] stepdefinition.Hooks Hooks.java75 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:41:54 DEBUG [main] stepdefinition.Hooks Hooks.java125 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:41:56 DEBUG [main] stepdefinition.Hooks Hooks.java160 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:41:56 DEBUG [main] stepdefinition.Hooks Hooks.java94 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:41:56 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:41:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:44:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:44:07 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:44:07 DEBUG [main] stepdefinition.Hooks Hooks.java75 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:44:07 DEBUG [main] stepdefinition.Hooks Hooks.java126 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:44:10 DEBUG [main] stepdefinition.Hooks Hooks.java161 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:44:10 DEBUG [main] stepdefinition.Hooks Hooks.java95 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:44:10 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:44:11 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 22:50:02 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 22:50:03 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 22:50:04 DEBUG [main] stepdefinition.Hooks Hooks.java75 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 22:50:04 DEBUG [main] stepdefinition.Hooks Hooks.java126 - DriverManager: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 22:50:07 DEBUG [main] stepdefinition.Hooks Hooks.java161 - DriverManager: initializeDriver: chrome driver configured
+20250204 22:50:07 DEBUG [main] stepdefinition.Hooks Hooks.java95 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 22:50:07 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 22:50:07 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 22:50:08 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:02:36 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:02:37 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:02:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:02:37 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:02:40 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:02:40 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:02:40 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:02:40 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 23:02:40 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:08:41 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:08:42 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:08:42 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:08:42 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:08:45 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:08:45 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:08:45 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:08:45 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 23:08:45 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:19:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:19:26 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:19:26 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:19:26 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:19:30 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:19:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:19:30 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:19:30 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:19:33 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:22:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:22:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:22:53 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:22:53 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java65 - WebDriver instance is null. Unable to capture screenshot.
+20250204 23:22:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:26:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:26:17 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:26:18 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:26:18 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:26:20 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:26:20 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:26:21 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:26:21 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:26:22 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:26:22 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250204 23:26:22 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:26:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:29:08 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:29:09 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:29:09 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:29:09 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:29:13 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:29:13 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:29:13 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:29:14 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:29:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:29:15 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250204 23:29:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250204 23:29:16 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250204 23:29:16 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250204 23:29:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java37 - runScenario is passed
+20250204 23:29:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:29:59 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:30:00 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:30:01 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:30:01 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:30:03 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:30:03 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:30:03 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:30:04 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:30:04 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:30:04 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250204 23:30:05 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250204 23:30:05 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250204 23:30:05 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250204 23:30:05 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:30:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:34:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:34:17 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:34:17 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:34:17 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:34:21 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:34:21 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:34:22 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:34:23 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:34:24 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:34:24 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250204 23:34:24 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250204 23:34:25 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250204 23:34:25 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250204 23:34:25 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:34:26 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java78 - Finalizing Extent Report...
+20250204 23:48:55 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:48:56 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:48:56 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:48:56 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:49:02 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:49:02 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:49:02 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:49:03 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:49:04 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:49:07 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250204 23:49:08 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250204 23:49:08 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250204 23:49:08 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250204 23:49:08 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:49:10 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250204 23:55:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250204 23:55:45 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250204 23:55:45 DEBUG [main] stepdefinition.Hooks1 Hooks1.java76 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250204 23:55:45 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250204 23:55:47 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250204 23:55:47 DEBUG [main] stepdefinition.Hooks1 Hooks1.java96 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250204 23:55:47 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250204 23:55:47 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:55:48 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250204 23:55:48 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250204 23:55:48 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250204 23:55:49 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250204 23:55:49 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250204 23:55:49 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250204 23:55:49 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 00:08:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 00:08:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 00:08:21 DEBUG [main] stepdefinition.Hooks1 Hooks1.java77 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 00:08:21 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 00:08:23 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 00:08:23 DEBUG [main] stepdefinition.Hooks1 Hooks1.java97 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 00:08:24 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 00:08:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:08:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:08:25 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 00:08:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 00:08:26 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 00:08:26 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 00:08:26 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 00:08:26 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 00:14:04 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 00:14:04 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 00:14:05 DEBUG [main] stepdefinition.Hooks1 Hooks1.java77 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 00:14:05 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 00:14:07 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 00:14:07 DEBUG [main] stepdefinition.Hooks1 Hooks1.java97 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 00:14:08 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 00:14:09 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:14:09 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:14:10 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 00:14:10 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 00:14:13 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 00:14:13 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 00:14:13 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 00:14:14 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 00:17:30 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 00:17:31 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 00:17:31 DEBUG [main] stepdefinition.Hooks1 Hooks1.java78 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 00:17:31 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 00:17:34 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 00:17:34 DEBUG [main] stepdefinition.Hooks1 Hooks1.java98 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 00:17:34 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 00:17:36 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:17:36 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:17:37 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 00:17:37 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 00:17:37 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 00:17:38 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 00:17:38 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 00:17:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 00:22:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 00:22:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 00:22:39 DEBUG [main] stepdefinition.Hooks1 Hooks1.java78 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 00:22:39 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 00:22:42 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 00:22:42 DEBUG [main] stepdefinition.Hooks1 Hooks1.java98 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 00:22:42 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 00:22:43 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:22:44 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:22:44 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 00:22:45 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 00:22:46 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 00:22:46 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 00:22:47 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 00:22:47 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 00:28:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 00:28:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 00:28:28 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 00:28:28 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 00:28:31 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 00:28:31 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 00:28:31 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 00:28:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:28:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 00:28:35 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 00:28:35 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 00:28:36 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 00:28:36 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 00:28:37 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 00:28:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 01:22:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 01:22:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 01:22:45 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 01:22:45 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 01:22:49 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 01:22:49 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 01:22:49 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 01:22:50 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 01:22:52 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 01:22:52 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 01:22:52 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 01:22:53 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 01:22:53 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 01:22:54 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 01:22:55 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 08:56:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 08:56:40 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 08:56:40 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 08:56:40 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 08:56:46 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 08:56:46 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 08:56:46 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 08:56:49 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 08:56:49 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 08:56:50 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 08:56:50 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 08:56:50 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 08:56:50 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 08:56:51 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 08:56:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 08:56:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 08:56:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 08:56:52 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 08:56:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 08:59:09 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 08:59:10 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 08:59:11 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 08:59:11 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 08:59:14 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 08:59:14 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 08:59:14 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 08:59:14 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 08:59:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 08:59:15 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 08:59:16 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 08:59:16 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 08:59:17 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 08:59:18 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 08:59:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 08:59:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 08:59:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 08:59:19 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 08:59:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:01:45 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:01:46 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:01:46 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 09:01:46 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 09:01:50 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 09:01:50 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 09:01:50 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 09:01:51 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:01:51 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:01:52 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 09:01:52 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 09:01:53 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 09:01:54 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 09:01:55 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:01:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:01:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:01:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:01:57 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:01:58 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:10:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:10:54 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:10:54 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 09:10:54 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 09:10:57 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 09:10:57 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 09:10:57 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 09:10:58 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:10:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:10:59 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 09:10:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 09:11:00 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 09:11:00 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 09:11:01 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:11:02 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:11:02 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:11:02 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:11:02 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:11:03 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:12:10 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:12:11 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:12:11 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 09:12:11 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 09:12:17 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 09:12:17 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 09:12:18 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 09:12:19 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:12:20 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:12:21 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 09:12:21 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 09:12:22 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 09:12:22 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 09:12:22 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:12:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:12:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:12:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:12:24 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:12:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:13:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:13:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:13:40 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 09:13:40 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 09:13:44 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 09:13:44 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 09:13:45 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 09:13:46 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:13:47 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:13:47 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 09:13:48 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 09:13:48 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 09:13:48 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 09:13:49 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:13:50 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:13:50 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:13:50 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250205 09:28:49 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250205 09:28:50 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250205 09:28:50 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250205 09:28:50 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250205 09:28:55 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250205 09:28:55 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250205 09:28:55 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250205 09:28:57 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:28:57 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250205 09:28:58 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250205 09:28:58 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250205 09:28:58 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250205 09:28:59 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250205 09:28:59 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250205 09:29:00 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:44:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:44:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:45:41 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:45:41 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:46:14 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:46:14 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:46:33 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:46:34 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:46:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:46:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:50:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:50:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:55:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:55:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:57:08 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:57:08 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:57:55 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:57:56 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 16:58:36 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 16:58:37 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 16:58:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 16:58:37 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 16:58:39 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 16:58:39 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 16:58:40 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 16:58:40 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 16:58:40 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 16:58:40 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 16:58:40 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 16:58:41 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 16:58:41 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 16:58:41 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 16:58:41 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 16:58:41 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 16:58:41 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 16:58:42 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 16:58:42 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 16:58:42 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 16:58:42 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 16:58:43 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 16:58:43 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 16:58:43 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 16:58:43 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 16:58:43 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 16:58:47 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 16:58:47 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 16:58:48 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:20:12 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:20:12 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:20:12 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:20:12 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:20:14 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:20:14 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:20:14 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:20:14 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:20:14 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:20:14 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:20:14 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:20:15 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:20:15 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:20:15 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:20:15 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:20:15 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:20:15 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:20:16 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:20:16 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:20:16 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:20:17 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:20:17 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:20:17 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:20:17 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:20:17 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:20:17 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:20:19 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:20:19 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:20:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:23:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:23:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:23:53 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:23:53 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:23:54 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:23:54 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:23:54 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:23:54 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:23:55 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:23:55 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:23:55 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:23:56 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:23:56 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:23:57 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:23:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:23:57 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:23:57 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:23:59 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:23:59 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:23:59 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:24:00 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:24:00 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:24:01 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:24:01 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:24:01 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:24:02 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:24:03 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:24:08 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:24:09 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:26:34 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:26:35 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:26:35 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:26:35 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:26:36 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:26:36 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:26:37 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:26:37 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:26:37 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:26:37 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:26:37 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:26:38 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:26:38 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:26:38 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250210 17:26:38 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:26:38 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:26:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:28:33 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:28:34 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:28:34 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:28:34 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:28:35 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:28:35 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:28:35 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:28:36 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:28:36 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:28:36 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:28:36 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:28:36 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:28:36 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:28:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250210 17:28:37 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:28:37 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:28:37 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:31:43 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:31:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:31:44 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:31:44 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:31:45 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:31:45 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:31:46 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:31:46 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:31:46 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:31:46 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:31:46 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:31:47 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:31:47 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:31:47 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250210 17:31:47 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:31:47 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:31:48 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:31:48 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:31:48 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:31:49 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:31:49 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:31:49 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:31:50 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:31:50 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:31:50 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:31:50 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:31:51 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:31:51 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:31:51 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:31:51 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:31:51 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:31:52 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:31:57 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login to Salesforce application
+20250210 17:31:57 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:31:57 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:31:58 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:31:58 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:31:58 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:31:58 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:34:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:34:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:34:27 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:34:27 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:34:28 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:34:28 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:34:29 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:34:29 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:34:29 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:34:29 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:34:29 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:34:30 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:34:30 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:34:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250210 17:34:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:34:30 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:34:31 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:34:31 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:34:31 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:34:31 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:34:31 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:34:31 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:34:32 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:34:32 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:34:33 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:34:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:34:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:34:34 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:34:34 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:34:34 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:34:34 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:34:35 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:34:37 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:34:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login to Salesforce application
+20250210 17:34:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:34:37 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:34:38 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:34:38 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:34:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java37 - runScenario is passed
+20250210 17:34:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:36:15 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:36:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:36:16 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:36:16 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:36:17 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:36:17 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:36:18 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:36:18 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:36:18 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:36:18 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:36:18 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:36:18 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:36:19 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:36:19 DEBUG [main] stepdefinition.Hooks1 Hooks1.java114 - DriverManager: tearDown: WebDriver quit and cleaned up for scenario: Login with valid username and no password
+20250210 17:36:19 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:36:19 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:36:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:39:30 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:39:30 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:39:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:39:30 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:39:32 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:39:32 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:39:32 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:39:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:39:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:39:33 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:39:33 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:39:35 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:39:35 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:39:36 DEBUG [main] stepdefinition.Hooks1 Hooks1.java120 - DriverManager: removeDriver: WebDriver is being reused for the next scenario
+20250210 17:39:36 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:39:36 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:39:36 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:39:36 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:39:37 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:39:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:39:37 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:39:37 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:39:38 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:39:38 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:39:38 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:39:38 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:39:38 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:39:40 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:39:41 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:39:42 DEBUG [main] stepdefinition.Hooks1 Hooks1.java120 - DriverManager: removeDriver: WebDriver is being reused for the next scenario
+20250210 17:39:42 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:39:43 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:42:29 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:42:30 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:42:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:42:30 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:42:31 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:42:31 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:42:32 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:42:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:42:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:42:32 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:42:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:42:33 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:42:33 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:42:33 DEBUG [main] stepdefinition.Hooks1 Hooks1.java120 - DriverManager: removeDriver: WebDriver is being reused for the next scenario
+20250210 17:42:33 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:42:33 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:42:34 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:43:56 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:43:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:43:57 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:43:57 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:43:58 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:43:58 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:43:59 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:43:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:43:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:43:59 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:43:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:44:00 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:44:00 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:44:00 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:44:00 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:44:00 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:44:00 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:44:01 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:44:01 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:44:02 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:44:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:44:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:44:02 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:44:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:44:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:44:03 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:44:04 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:44:05 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:44:05 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:44:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:45:09 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:45:10 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:45:10 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:45:10 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:45:11 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:45:11 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:45:11 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:45:11 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:45:12 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:45:12 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:45:12 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:45:12 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:45:12 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:45:13 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:45:13 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:45:13 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:45:13 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:45:14 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java57 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:45:14 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:45:14 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:45:14 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:45:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:45:15 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:45:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:45:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:45:15 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:45:17 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:45:18 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:45:18 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:45:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:48:35 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:48:36 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:48:36 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:48:36 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:48:37 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:48:37 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:48:38 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:48:38 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:48:38 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:48:38 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:48:38 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:48:39 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:48:39 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:48:39 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:48:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:48:40 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:48:40 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:48:41 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:48:41 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:48:42 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:48:42 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:48:43 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:48:43 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:48:43 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:48:44 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:48:44 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:48:46 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:48:48 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:48:48 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:48:51 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:53:54 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:53:54 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:53:54 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:53:54 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:53:56 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:53:56 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:53:56 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:53:56 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:53:56 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:53:57 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:53:57 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:53:57 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:53:57 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:53:58 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:53:58 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:53:58 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:53:58 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:53:59 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:53:59 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:53:59 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:53:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:53:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:53:59 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:54:00 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:54:00 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:54:00 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:54:01 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:54:02 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:54:03 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:54:29 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:54:29 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:54:29 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:54:29 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:54:31 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:54:31 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:54:31 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:54:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:54:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:54:31 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:54:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:54:32 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:54:32 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:54:32 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:54:32 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:54:32 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:54:32 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:54:34 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:54:34 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:54:34 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:54:34 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:54:34 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:54:34 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:54:34 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:54:35 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:54:35 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:54:36 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:54:37 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:54:38 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:54:38 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 17:55:49 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 17:55:49 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:55:50 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 17:55:50 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:55:51 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:55:51 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:55:51 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:55:51 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:55:52 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:55:52 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:55:52 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:55:52 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:55:52 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 17:55:53 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:55:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 17:55:53 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 17:55:53 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 17:55:54 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 17:55:54 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 17:55:54 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 17:55:54 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:55:54 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 17:55:55 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 17:55:55 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 17:55:55 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 17:55:55 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 17:55:56 INFO  [main] pages.BasePage BasePage.java439 - user is a clicked onLogin Button
+20250210 17:55:57 INFO  [main] pages.BasePage BasePage.java54 - Title of page :Lightning Experience
+20250210 17:55:58 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 17:55:58 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:08:15 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:08:16 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:08:16 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:08:16 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:08:18 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:08:18 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:08:18 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 18:08:18 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:08:18 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:08:18 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:08:18 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:08:19 INFO  [main] pages.BasePage BasePage.java443 - user is a clicked onLogin Button
+20250210 18:08:19 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:08:19 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:08:19 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:08:19 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:08:19 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:08:20 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:08:20 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:08:20 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java47 - https://login.salesforce.com is entered
+20250210 18:08:20 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:08:21 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:08:21 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:08:21 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:08:21 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:08:21 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:08:23 INFO  [main] pages.BasePage BasePage.java443 - user is a clicked onLogin Button
+20250210 18:08:24 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:08:25 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:09:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:09:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:09:21 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:09:21 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:09:22 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:09:22 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:09:22 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:09:22 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:09:22 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:09:22 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:09:23 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:09:23 INFO  [main] pages.BasePage BasePage.java443 - user is a clicked onLogin Button
+20250210 18:09:23 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:09:23 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:09:23 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:09:23 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:09:23 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:09:24 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:09:24 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:09:25 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:09:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:09:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:09:25 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:09:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:09:25 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:09:25 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:09:27 INFO  [main] pages.BasePage BasePage.java443 - user is a clicked onLogin Button
+20250210 18:09:28 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:09:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:13:51 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:13:52 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:13:52 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:13:52 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:13:54 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:13:54 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:13:54 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:13:55 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:13:55 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:13:56 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:13:56 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:13:56 INFO  [main] pages.BasePage BasePage.java443 - user is a clicked onLogin Button
+20250210 18:13:57 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:13:57 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:13:58 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:13:58 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:13:58 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:14:00 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:14:00 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:14:00 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:14:01 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:14:01 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:14:01 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:14:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:14:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:14:02 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:14:06 INFO  [main] pages.BasePage BasePage.java443 - user is a clicked onLogin Button
+20250210 18:14:06 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:14:08 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:20:02 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:20:02 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:20:03 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:20:03 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:20:04 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:20:04 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:20:04 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:20:04 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:20:05 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:20:05 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:20:05 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:20:05 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:20:05 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:20:05 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:20:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:20:06 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:20:06 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:20:07 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:20:07 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:20:07 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:20:07 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:20:07 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:20:08 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:20:08 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:20:08 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:20:08 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:20:09 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:20:11 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:20:11 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:21:23 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:21:23 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:21:23 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:21:23 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:21:25 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:21:25 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:21:25 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:21:26 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:21:26 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:21:26 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:21:26 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:21:27 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:21:27 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:21:28 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:21:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:21:28 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:21:28 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:21:30 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:21:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:21:30 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:21:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:21:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:21:31 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:21:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:21:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:21:32 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:21:33 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:21:35 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:21:37 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:26:10 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:26:10 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:26:11 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:26:11 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:26:12 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:26:12 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:26:12 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:26:12 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:26:13 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:26:13 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:26:13 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:26:13 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:26:13 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:26:14 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:26:14 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:26:14 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:26:14 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:26:15 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:26:15 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:26:15 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:26:15 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:26:16 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:26:16 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:26:16 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:26:16 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:26:16 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:26:18 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:26:19 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:26:20 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:27:47 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:27:47 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:27:47 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:27:47 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:27:49 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:27:49 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:27:49 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:27:49 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:27:50 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:27:50 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:27:50 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:27:51 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:27:51 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:27:52 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:27:52 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:27:53 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:28:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:28:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:28:24 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:28:24 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:28:26 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:28:26 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:28:26 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:28:26 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:28:27 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:28:27 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:28:27 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:28:29 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:28:29 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:28:29 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:28:30 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:28:31 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:29:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:29:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:29:39 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:29:39 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:29:41 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:29:41 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:29:41 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:29:41 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:29:41 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:29:41 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:29:41 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:29:42 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:29:42 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:29:43 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:29:43 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:29:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:30:25 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:30:25 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:30:25 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:30:25 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:30:27 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:30:27 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:30:27 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:30:27 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:30:27 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:30:27 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:30:27 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:30:28 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:30:28 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:30:28 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:30:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:30:28 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:30:28 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:30:29 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:30:29 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:30:30 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:30:30 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:30:30 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:30:30 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:30:30 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:30:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:30:31 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:30:32 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:30:34 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:30:35 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:34:23 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:34:24 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:34:24 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:34:24 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:34:25 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:34:25 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:34:26 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:34:26 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:34:26 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:34:26 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:34:26 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:34:27 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:34:27 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:34:28 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:34:28 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:34:28 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:34:28 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:34:30 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:34:30 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:34:31 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:34:31 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:34:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:34:32 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:34:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:34:32 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:34:33 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:34:34 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:34:37 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:34:39 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:40:46 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:40:47 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:40:47 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:40:47 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:40:48 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:40:48 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:40:49 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:40:49 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:40:49 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:40:49 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:40:49 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:40:50 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:40:50 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:40:50 DEBUG [main] stepdefinition.Hooks1 Hooks1.java120 - DriverManager: removeDriver: WebDriver is being reused for the next scenario
+20250210 18:40:50 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:40:50 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:40:51 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:41:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:41:57 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:41:58 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:41:58 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:41:59 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:41:59 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:41:59 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:41:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:41:59 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:42:00 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:42:00 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:42:00 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:42:00 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:42:01 DEBUG [main] stepdefinition.Hooks1 Hooks1.java120 - DriverManager: removeDriver: WebDriver is being reused for the next scenario
+20250210 18:42:01 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:42:01 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:42:01 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login to Salesforce application
+20250210 18:42:01 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:42:02 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:42:02 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:42:02 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:42:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:42:02 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:42:03 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:42:03 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:42:03 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword field
+20250210 18:42:03 INFO  [main] pages.BasePage BasePage.java89 - Pass:Password fieldis entered in the username field
+20250210 18:42:04 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:42:06 DEBUG [main] stepdefinition.Hooks1 Hooks1.java120 - DriverManager: removeDriver: WebDriver is being reused for the next scenario
+20250210 18:42:06 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:42:06 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:43:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:43:44 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:43:44 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:43:44 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:43:46 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:43:46 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:43:46 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:43:46 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:43:47 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:43:47 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:43:47 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:43:47 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:43:47 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:43:48 DEBUG [main] stepdefinition.Hooks1 Hooks1.java131 - Closed the current browser window.
+20250210 18:43:48 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:43:48 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:43:48 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...
+20250210 18:44:08 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java25 - Extent Report initialized.
+20250210 18:44:09 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java32 - Starting test: runScenario
+20250210 18:44:09 DEBUG [main] stepdefinition.Hooks1 Hooks1.java79 - DriverHook: setUpDriver: Hook started for scenario: Login with valid username and no password
+20250210 18:44:09 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java23 - DriverManagerFactory: initializeDriver: initializing driver for browser: chrome with headless mode: false
+20250210 18:44:10 DEBUG [main] utilis.DriverManagerFactory DriverManagerFactory.java59 - DriverManagerFactory: initializeDriver: chrome driver configured
+20250210 18:44:10 DEBUG [main] stepdefinition.Hooks1 Hooks1.java99 - DriverHook: setUpDriver: WebDriver initialized and ExtentTest configured
+20250210 18:44:11 INFO  [main] stepdefinition.LoginStepDef LoginStepDef.java48 - https://login.salesforce.com is entered
+20250210 18:44:11 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:44:12 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inUsername field
+20250210 18:44:12 INFO  [main] pages.BasePage BasePage.java89 - Pass:Username fieldis entered in the username field
+20250210 18:44:12 INFO  [main] pages.BasePage BasePage.java103 - Pass:Text is cleared inPassword  field
+20250210 18:44:13 INFO  [main] pages.BasePage BasePage.java444 - user is a clicked onLogin Button
+20250210 18:44:14 INFO  [main] pages.BasePage BasePage.java116 - Text is printed: Please enter your password.
+20250210 18:44:14 DEBUG [main] stepdefinition.Hooks1 Hooks1.java131 - Closed the current browser window.
+20250210 18:44:14 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:44:14 ERROR [main] utilis.TestEventListenerUtility TestEventListenerUtility.java43 - runScenario is failed
+20250210 18:44:15 INFO  [main] utilis.TestEventListenerUtility TestEventListenerUtility.java84 - Finalizing Extent Report...

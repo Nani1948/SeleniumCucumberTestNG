@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="0" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-10T18:29:39 EST" name="Cucumber Test Suite" finished-at="2025-02-10T18:29:44 EST" duration-ms="5083">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.seleniumcucumberframework.qa.runner.TestRunner@6aaceffd]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-02-10T18:29:39 EST" name="Cucumber Tests" finished-at="2025-02-10T18:29:44 EST" duration-ms="5083">
+      <class name="com.seleniumcucumberframework.qa.runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.seleniumcucumberframework.qa.runner.TestRunner@6aaceffd]" started-at="2025-02-10T18:29:39 EST" name="setUpClass" finished-at="2025-02-10T18:29:39 EST" duration-ms="385" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6af65f29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.seleniumcucumberframework.qa.runner.TestRunner@6aaceffd]" started-at="2025-02-10T18:29:39 EST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-10T18:29:41 EST" duration-ms="2014" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with valid username and no password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["verify the login functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[Invalid page: loginpage]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: Invalid page: loginpage
+at com.seleniumcucumberframework.qa.stepdefinition.LoginStepDef.userIsOnLoginPage(LoginStepDef.java:72)
+at ✽.User is on the "loginpage"(file:///C:/Users/knand/eclipse-workspace/12345/com.seleniumcucumberframework.qa/src/test/resources/features/login.feature:7)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.seleniumcucumberframework.qa.runner.TestRunner@6aaceffd]" started-at="2025-02-10T18:29:41 EST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-02-10T18:29:43 EST" duration-ms="1761" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login to Salesforce application"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["verify the login functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[Invalid page: loginpage]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: Invalid page: loginpage
+at com.seleniumcucumberframework.qa.stepdefinition.LoginStepDef.userIsOnLoginPage(LoginStepDef.java:72)
+at ✽.User is on the "loginpage"(file:///C:/Users/knand/eclipse-workspace/12345/com.seleniumcucumberframework.qa/src/test/resources/features/login.feature:15)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.seleniumcucumberframework.qa.runner.TestRunner@6aaceffd]" started-at="2025-02-10T18:29:43 EST" name="tearDownClass" finished-at="2025-02-10T18:29:44 EST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.seleniumcucumberframework.qa.runner.TestRunner -->
+    </test> <!-- Cucumber Tests -->
+  </suite> <!-- Cucumber Test Suite -->
+</testng-results>
